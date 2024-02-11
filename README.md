@@ -1,9 +1,11 @@
+[![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--z5X0MXQA--%2Fc_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif&f=1&nofb=1&ipt=151df632ba5c69a3694923e67f8f4a5879cf26aaea3757081df99a1da1debda7&ipo=images)](https://github.com/McTintor)
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <h3 align="center">I'm a passionate full-stack developer with expertise in React, Node.js, Express.js, PostgreSQL, and MongoDB. I love building scalable web applications and solving complex problems through code. With a strong foundation in both frontend and backend development, I strive to create elegant and efficient solutions.</h3>
+<img align="right" alt="Coding" width="530" height="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.aalpha.net%2Fwp-content%2Fuploads%2F2020%2F12%2Ffull-stack-development.gif&f=1&nofb=1&ipt=68aaec428ce7fcfe92e761a76802e57615fc56b81b7071c1de0aa685a6663a34&ipo=images">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mctintor&label=Profile%20views&color=0e75b6&style=flat" alt="mctintor" /> </p>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on [My Projects](https://github.com/McTintor?tab=repositories)
 
 - 🌱 I’m currently learning **React**
 
@@ -14,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tintor-igor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tintor-igor" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/igor-tintor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="igor-tintor" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23345367/igor-tintor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="igor-tintor" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/plavigor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="plavigor" height="30" width="40" /></a>
 </p>
 
