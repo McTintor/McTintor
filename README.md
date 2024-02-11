@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/McTintor?tab=repositories](https://github.com/McTintor?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/McTintor?tab=repositories)
 
 - 📫 How to reach me **igortintor99@gmail.com**
 
@@ -78,7 +78,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mctintor&show_icons=true&locale=en&layout=compact" alt="mctintor" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mctintor&show_icons=true&locale=en" alt="mctintor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mctintor&" alt="mctintor" /></p>
