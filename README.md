@@ -16,8 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tintor-igor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tintor-igor" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23345367/igor-tintor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="igor-tintor" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/plavigor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="plavigor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
