@@ -2,8 +2,6 @@
 <h3 align="center">I'm a passionate full-stack developer with expertise in React, Node.js, Express.js, PostgreSQL, and MongoDB. I love building scalable web applications and solving complex problems through code. With a strong foundation in both frontend and backend development, I strive to create elegant and efficient solutions.</h3>
 <img align="right" alt="Coding" width="530" height="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.aalpha.net%2Fwp-content%2Fuploads%2F2020%2F12%2Ffull-stack-development.gif&f=1&nofb=1&ipt=68aaec428ce7fcfe92e761a76802e57615fc56b81b7071c1de0aa685a6663a34&ipo=images">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mctintor&label=Profile%20views&color=0e75b6&style=flat" alt="mctintor" /> </p>
-
 - 🔭 I’m currently working on [My Projects](https://github.com/McTintor?tab=repositories)
 
 - 🌱 I’m currently learning **Node.js | Express.js**
